@@ -25,6 +25,9 @@ public class Prueba {
 		// constructor vacío y que
 		// estén implementados públicamente todos los getters y setters de los
 		// atributos.
+
+		// Para hacer una persistencia xml sin getters/setters ni constructores vacíos
+		// se usa el patrón DTO.
 	}
 
 }
